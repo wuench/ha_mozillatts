@@ -1,5 +1,5 @@
 # ha_mozillatts
-Mozilla TTS Custom Component to work with synesthesiam / docker-mozillatts 
+Mozilla TTS Custom Component to work with [synesthesiam/docker-mozillatts](https://github.com/synesthesiam/docker-mozillatts) 
 Only supports en-us language and default (en-us female) voice
 
 ### Configuration
